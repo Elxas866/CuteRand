@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+body {
+    background-color: #FFE1EA;
+    font-family: "Honk", system-ui;
+}
+
+h1 {
+    font-family: "Honk", system-ui;
+}
+
+#img {
+    transition: 0.5s;
+}
